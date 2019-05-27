@@ -1,11 +1,6 @@
 ﻿spring:
   profile:
     active:
-<<<<<<< HEAD
-    -dev
-=======
-    - dev
->>>>>>> parent of 3c3775a... Update application.yml
 ---
 spring:
   profile: dev
