@@ -1,0 +1,14 @@
+﻿spring:
+  profile:
+    active:
+    - dev
+---
+spring:
+  profile: dev
+  spplication:
+    name: spring-cloud-config-3344-dev
+---
+spring:
+  profile: test
+  appplication:
+    name: spring-cloud-config-3344-test
