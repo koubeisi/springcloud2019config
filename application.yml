@@ -1,5 +1,5 @@
 ﻿spring:
-  profile:
+  profile: pro
     active:
 
 ---
