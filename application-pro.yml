@@ -1,0 +1,4 @@
+﻿spring:
+  profile: pro
+  spplication:
+    name: spring-cloud-config-3344-dev

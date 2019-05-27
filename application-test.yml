@@ -1,0 +1,4 @@
+﻿spring:
+  profile: test
+  appplication:
+    name: spring-cloud-config-3344-test
