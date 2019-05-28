@@ -2,3 +2,8 @@
   profile: dev
   spplication:
     name: spring-cloud-config-3344-dev
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka,http://eureka7002.com:7002/eureka
