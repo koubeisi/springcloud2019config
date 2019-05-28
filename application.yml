@@ -1,4 +1,5 @@
-﻿spring:
+﻿---
+spring:
   profile: a
   spplication:
     name: spring-cloud-config-3344-dev
